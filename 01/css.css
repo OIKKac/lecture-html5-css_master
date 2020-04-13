@@ -1,0 +1,74 @@
+html, html *{
+    background-color: #242424 !important;
+    color: #e6e6e6;
+    border-color: #939393 !important;
+    
+}
+p{
+    color: #e6e6e6 !important;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #e6e6e6 !important;
+}
+:link, :link * {color: #AE7113 !important}
+:visited{color: #14899D !important}
+
+video {
+    background-color: transparent !important;
+}
+em{
+    color: #14899D !important;
+}
+span{
+    color: #B4B4B4 !important;
+}
+table tr td{
+    color: #e6e6e6 !important;
+}
+input{
+    color: #e6e6e6 !important;
+    background-color: #242424 !important;
+    }
+strong{
+    color: #14899D !important; 
+}
+dd{
+    color: #e6e6e6 !important;
+}
+button{
+    color: #e6e6e6 !important;
+}
+
+background-image{
+    -webkit-linear-gradient(top,#242424,#24242424);
+}
+input[type="submit"]{
+    background-image: -webkit-linear-gradient(top,#242424,#242424) !important;
+}
+li *{
+    border-color: #939393 !important;
+} 
+
+/* naver 
+.spnew span{
+    background-color: #EAEAEA !important;
+}
+
+.tab a{
+    background-color: #EAEAEA !important;
+}
+*/
+
+/* hannam 
+#wrapper .login .login_wrapper .login_user .box input{
+    border: 1px solid #c0c0c0;
+    width: 230px; 
+    height: 44px;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+#wrapper .login .login_wrapper .login_btn a{
+    border: 1px solid;
+}
+*/
